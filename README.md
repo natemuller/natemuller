@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Natan Müller
 
-Sou estudante de **Engenharia de Software na PUCRS**, atualmente no 3º semestre.  
-Tenho foco em **desenvolvimento back-end** com **Java** e **Spring Boot**, além de experiência com **React Native**, **C**, **C++** e **Python**.  
+Sou estudante de **Engenharia de Software na PUCRS**, atualmente no 4º semestre.  
+Tenho foco em **desenvolvimento full-stack** com tecnologias como **Java**, **Spring Boot**, **React Native**, **C**, **C++** e **Python**.  
 Busco sempre evoluir como desenvolvedor, aprendendo todos os dias e sem jamais ficar parado.
 
 ---
