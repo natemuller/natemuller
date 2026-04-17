@@ -18,6 +18,7 @@ Sou movido por aprendizado contínuo, disciplina e pela vontade de construir uma
 📫 Contato
 
 📍 Porto Alegre - RS, Brasil
+
 📧 natan.muller@edu.pucrs.br
 
 🔗 LinkedIn
