@@ -1,22 +1,24 @@
-# 👋 Olá, eu sou o Natan Müller
+👋 Olá, eu sou o Natan Müller
 
-Sou estudante de **Engenharia de Software na PUCRS**, atualmente no 4º semestre.  
-Tenho foco em **desenvolvimento full-stack** com tecnologias como **Java**, **Spring Boot**, **React Native**, **C**, **C++** e **Python**.  
-Busco sempre evoluir como desenvolvedor, aprendendo todos os dias e sem jamais ficar parado.
+Sou estudante de Engenharia de Software na PUCRS, atualmente no 4º semestre.
+Tenho uma base sólida em lógica de programação e foco principal em C/C++, linguagens nas quais venho me aprofundando de forma mais consistente.
 
----
+Tenho experiência com outras linguagens e tecnologias, mas meu objetivo vai além de simplesmente desenvolver: busco evoluir na área de Tecnologia da Informação como um todo, entendendo tanto o lado técnico quanto a organização e funcionamento dos sistemas dentro de um contexto real.
 
-### 🚀 Tecnologias e ferramentas
-💻 **Linguagens:** Java, C, C++, Python  
-🛠️ **Frameworks:** Spring Boot, React Native  
-🗄️ **Banco de Dados:** SQL, MongoDB  
-🧩 **Conceitos:** POO, Estruturas de Dados, Git e Versionamento  
-📊 **Outros:** Power BI, Figma, Docker
+Sou movido por aprendizado contínuo, disciplina e pela vontade de construir uma base forte que me permita crescer na área.
 
----
+🚀 Tecnologias e conhecimentos
 
-### 📫 Contato
-📍 Porto Alegre - RS, Brasil  
-📧 [natan.muller@edu.pucrs.br](mailto:natan.muller@edu.pucrs.br)  
-🔗 [LinkedIn](https://linkedin.com/in/natan-muller) | [GitHub](https://github.com/natemuller)
+💻 Principais: C, C++
+🧠 Base: Lógica de programação, Estruturas de Dados, Programação Orientada a Objetos, Banco de Dados
+🛠️ Outros conhecimentos: Java, Python, Go versionamento com Git
+📊 Ferramentas: Power BI, Figma
+⚙️ Conceitos: Organização de código, resolução de problemas, pensamento analítico
 
+📫 Contato
+
+📍 Porto Alegre - RS, Brasil
+📧 natan.muller@edu.pucrs.br
+
+🔗 LinkedIn
+ | GitHub
